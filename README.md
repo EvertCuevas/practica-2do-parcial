@@ -1,1 +1,2 @@
-# practica-2do-parcial
+# practica-2do-parcia
+Resolución de ejercicios Practica 2do Parcial
